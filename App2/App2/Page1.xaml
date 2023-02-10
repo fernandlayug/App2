@@ -8,6 +8,8 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Act"/>
+            <Button Text="Act2"/>
+       
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
