@@ -9,7 +9,8 @@
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Act"/>
             <Button Text="Act2"/>
-       
+            <Button Text="Act3"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
