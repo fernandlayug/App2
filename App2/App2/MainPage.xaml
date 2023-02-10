@@ -19,6 +19,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Button Text="Activity1"/>
     </StackLayout>
 
 </ContentPage>
